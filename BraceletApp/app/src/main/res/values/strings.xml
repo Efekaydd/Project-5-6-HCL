@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BraceletApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current">Scanning…</string>
+    <string name="scanned_connections">Scanned Connections:</string>
+    <string name="heart_rate">"Heart Rate: Unknown"</string>
+    <string name="o2">O2%: Unknown</string>
+    <string name="motion">Motion: Unknown</string>
+    <string name="temp">Temperature: Unknown</string>
+    <string name="log">Log:</string>
+    <string name="settings">Settings</string>
+</resources>
